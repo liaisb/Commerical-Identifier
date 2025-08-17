@@ -1,0 +1,23 @@
+Model Test Results
+=================
+
+Test Date: 20250111_145102
+Total Images Processed: 533
+Total Processing Time: 155.86 seconds
+Images per Second: 3.42
+Average Confidence: 0.9777
+
+Class Distribution:
+commercial: 296 images (55.5%)
+game: 237 images (44.5%)
+
+Confidence Distribution:
+Min Confidence: 0.5238
+Max Confidence: 1.0000
+Median Confidence: 0.9998
+
+System Information:
+PyTorch Version: 2.5.1
+MPS Available: True
+MPS Built: True
+CUDA Available: False

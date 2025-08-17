@@ -1,0 +1,17 @@
+{
+    "timestamp": "20250118_160409",
+    "total_images": 2052,
+    "total_processing_time": 653.25,
+    "images_per_second": 3.14,
+    "average_confidence": 0.9879,
+    "class_distribution": {
+        "game": 1567,
+        "commercial": 485
+    },
+    "system_info": {
+        "pytorch_version": "2.5.1",
+        "mps_available": true,
+        "mps_built": true,
+        "cuda_available": false
+    }
+}
